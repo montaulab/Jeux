@@ -11,7 +11,7 @@ le joueur bleu doit cliquer sur le bouton bleu lorsque la balle bleu  est entre 
 <br>
 
 ### Schéma de câblage :
-on utilisera une alimentation de 5v 1A pour alimenter les leds et l'arduino nano pour éviter de faire chauffer le régulateur de la nano<br>
+on utilisera une alimentation de 5v 1A pour alimenter les leds et l'arduino nano cela évite de faire chauffer le régulateur de la nano<br>
 la masse des boutons est faite avec la broche 7 c'est juste pour me simplifier le cablage, mais on peut utiliser la masse de l'arduino(GND) au lieu de la broche 7<br>
 il y à 79 leds néopixel WS2812B adressables
 <img width="820" height="312" alt="image" src="https://github.com/montaulab/Jeux/blob/main/ping_pong_1D/cablage_ping_pon_1D.png" />
